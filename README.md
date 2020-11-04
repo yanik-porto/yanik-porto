@@ -25,5 +25,8 @@ Here are some ideas to get you started:
   <img src="python.svg" alt="drawing" width="30"/>
   <img src="js.svg" alt="drawing" width="30"/>
   <img src="jenkins.svg" alt="drawing" width="30"/>
+  <img src="opencv_logo.png" alt="drawing" width="30"/>
+  <img src="linux.svg" alt="drawing" width="30"/>
+  <img src="ros_logo.png" alt="drawing" width="30"/>
 </div>
 
