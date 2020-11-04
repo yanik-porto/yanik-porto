@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on software development and robotics / computer vision algorithms
+- 🌱 I’m currently learning android and web development
