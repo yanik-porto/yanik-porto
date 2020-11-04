@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ### Skills
 
-<img src="cpp_logo.png" alt="drawing" width="50"/>
+<img src="cpp.svg" alt="drawing" width="50"/>
