@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on software development and robotics / computer vision algorithms
 - 🌱 I’m currently learning android and web development
+
+### Skills
+
+![cpp Logo](cpp_logo.png)
