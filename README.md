@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ### Skills
 
-![cpp Logo](cpp_logo.png = 50x50 )
+<img src="cpp_logo.png" alt="drawing" width="50"/>
