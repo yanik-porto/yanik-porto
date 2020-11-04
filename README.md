@@ -27,6 +27,6 @@ Here are some ideas to get you started:
   <img src="jenkins.svg" alt="drawing" width="30"/>
   <img src="opencv-logo.png" alt="drawing" width="30"/>
   <img src="linux.svg" alt="drawing" width="30"/>
-  <img src="ros_logo.png" alt="drawing" width="50"/>
+  <img src="ros_logo.png" alt="drawing" width="70"/>
 </div>
 
