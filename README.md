@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 
 ### Skills
 
-<img src="cpp.svg" alt="drawing" width="50"/>
-<img src="python.svg" alt="drawing" width="50"/>
-<img src="js.svg" alt="drawing" width="50"/>
-<img src="jenkins.svg" alt="drawing" width="50"/>
+<div float: left, width: 33.33%, padding: 5px>
+  <img src="cpp.svg" alt="drawing" width="50"/>
+  <img src="python.svg" alt="drawing" width="50"/>
+  <img src="js.svg" alt="drawing" width="50"/>
+  <img src="jenkins.svg" alt="drawing" width="50"/>
+</div>
+
