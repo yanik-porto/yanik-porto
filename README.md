@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on software development and robotics / computer vision algorithms
+- 🔭 I’m currently working on software development, robotics, computer vision algorithms and deep learning.
 - 🌱 I’m currently learning android and web development
 
 ### Skills
