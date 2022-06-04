@@ -28,6 +28,10 @@ Here are some ideas to get you started:
   <img src="opencv-logo.png" alt="drawing" width="30"/>
   <img src="linux.svg" alt="drawing" width="30"/>
   <img src="ros_logo.png" alt="drawing" width="70"/>
+  <img src="pytorch.png" alt="drawing" width="30"/>
+  <img src="onnx.png" alt="drawing" width="30"/>
+  <img src="nvidia.png" alt="drawing" width="30"/>
+  <img src="openvino-logo.png" alt="drawing" width="70"/>
 </div>
 
 ## Github
